@@ -1,6 +1,7 @@
 # ISC4U0-Employee_Database
 
 Employee Database Project
+
 By: Jia Min Wang, Abigail Jasmin Sy
 
 This project was created for ISC4U0 final project using the netbeans IDE. 
